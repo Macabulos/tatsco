@@ -467,7 +467,7 @@
         gap: 10px;
     }
 
-    .contact-item a {
+    .contact-item a, .ss{
         color: white;
         text-decoration: none;
         display: flex;
